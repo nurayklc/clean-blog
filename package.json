@@ -1,0 +1,26 @@
+{
+  "name": "clean-blog",
+  "version": "1.0.0",
+  "description": "Clean Blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurayklc/clean-blog.git"
+  },
+  "author": "Nuray KILIÇ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurayklc/clean-blog/issues"
+  },
+  "homepage": "https://github.com/nurayklc/clean-blog#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "prettier": "2.5.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

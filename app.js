@@ -10,7 +10,7 @@ const app = express();
 app.set('view engine', 'ejs');
 
 // Connect DB
-mongoose.connect('mongodb+srv://nuray:JgNd2a4TTZr388M@cluster0.mx59u.mongodb.net/myFirstDatabase?retryWrites=true&w=majority').then(() => {
+mongoose.connect('mongodb+srv://nuray:JgNd2a4TTZr388M@cluster0.mx59u.mongodb.net/clean-blog?retryWrites=true&w=majority').then(() => {
   console.log('DB Connected!');
 });
 

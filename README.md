@@ -1,6 +1,6 @@
 # Clean Blog 
 ---
-<a href="https://photo-catalog-app.herokuapp.com/">Clean Blog Projesi için tıklayınız..</a>
+<a href="https://clean-blog-applications.herokuapp.com/">Clean Blog Projesi için tıklayınız..</a>
 
 #### Projede Kullanılan Teknolojiler
 ---

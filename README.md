@@ -1,5 +1,4 @@
 # Clean Blog 
----
 <a href="https://clean-blog-applications.herokuapp.com/">Clean Blog Projesi için tıklayınız..</a>
 
 #### Projede Kullanılan Teknolojiler

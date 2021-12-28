@@ -1,19 +1,19 @@
 # Clean Blog 
-<a href="https://clean-blog-applications.herokuapp.com/">Clean Blog Projesi için tıklayınız..</a>
+<a href="https://clean-blog-applications.herokuapp.com/">Click for Clean Blog Project</a>
 
-#### Projede Kullanılan Teknolojiler
+#### Used Techs
 ---
 - Prettier 
 - Nodemon
-- Statik Dosyalar
+- Statik Files
 - Template Engine
-- Middleware Kavramı 
+- Middleware  
 - Express
 - MongoDB
 - Mongoose
 - CRUD
-- MVC Yapısı
-- Pagination (Sayfalama)
+- MVC 
+- Pagination 
 - Atlas MongoDB cloud
 - Heroku Deployment
 
